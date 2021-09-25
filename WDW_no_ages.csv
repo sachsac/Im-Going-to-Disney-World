@@ -1,0 +1,45 @@
+Ride_name,Park_location,Park_area,Ride_type_all,Ride_type_thrill,Ride_type_spinning,Ride_type_slow,Ride_type_small_drops,Ride_type_big_drops,Ride_type_dark,Ride_type_scary,Ride_type_water,Fast_pass,Classic,Height_req_inches,Ride_duration_min,Age_of_ride_years,TL_rank,TA_Stars
+Alien Swirling Saucers,HS,Toy Story Land,spinning,0,1,0,0,0,0,0,0,1,0,32,1.5,4.314168377823409,31,4.0
+Astro Orbiter,MK,Tomorrowland,"spinning, slow",0,1,1,0,0,0,0,0,0,1,0,1.5,27.657084188911703,43,3.5
+Avatar Flight of Passage,AK,Pandora,thrill,1,0,0,0,0,0,0,0,1,0,44,5.0,5.406570841889117,9,5.0
+Big Thunder Mountain Railroad,MK,Frontierland,"thrill, small drops",1,0,0,1,0,0,0,0,1,1,40,3.5,42.08008213552361,8,4.5
+Buzz Lightyear's Space Ranger Spin,MK,Tomorrowland,"spinning, slow",0,1,1,0,0,0,0,0,1,0,0,4.0,24.04312114989733,32,4.5
+Dinosaur,AK,Dinoland USA,"thrill, small drops, dark, scary",1,0,0,1,0,1,1,0,1,0,40,3.25,24.503080082135522,24,4.0
+Dumbo the Flying Elephant,MK,Fantasyland,"spinning, slow",0,1,1,0,0,0,0,0,1,1,0,1.5,51.06023271731691,29,4.5
+Expedition Everest,AK,Asia,"thrill, big drops, dark",1,0,0,0,1,1,0,0,1,0,44,2.75,16.544147843942504,1,5.0
+Frozen Ever After,EC,World Showcase,"slow, small drops, dark",0,0,1,1,0,1,0,0,1,0,0,5.0,6.337440109514032,27,4.0
+Gran Fiesta Tour Starring The Three Caballeros,EC,World Showcase,slow,0,0,1,0,0,0,0,0,0,1,0,8.0,15.558521560574949,47,4.0
+Haunted Mansion,MK,Liberty Square,"slow, dark",0,0,1,0,0,1,0,0,1,1,0,7.5,51.06023271731691,2,4.5
+It's a Small World,MK,Fantasyland,slow,0,0,1,0,0,0,0,0,1,1,0,10.5,51.06023271731691,16,4.0
+Journey Into Imagination with Figment,EC,Future World,"slow, dark",0,0,1,0,0,1,0,0,1,0,0,11.0,20.39356605065024,53,3.0
+Jungle Cruise,MK,Adventureland,slow,0,0,1,0,0,0,0,0,1,1,0,9.0,51.06023271731691,19,4.0
+Kali River Rapids,AK,Asia,"thrill, water, small drops, spinning",1,1,0,1,0,0,0,1,1,0,38,3.5,23.684462696783026,21,4.5
+Kilimanjaro Safaris,AK,Africa,slow,0,0,1,0,0,0,0,0,1,1,0,18.5,24.503080082135522,11,4.5
+Living with the Land,EC,Future World,slow,0,0,1,0,0,0,0,0,1,0,0,13.75,40.059548254620125,42,4.0
+Mad Tea Party,MK,Fantasyland,spinning,0,1,0,0,0,0,0,0,1,1,0,1.5,51.06023271731691,20,4.0
+Mission Space,EC,Future World,"thrill, spinning, dark",1,1,0,0,0,1,0,0,1,0,40,5.75,19.060232717316907,33,3.5
+Na'vi River Journey,AK,Pandora,slow,0,0,1,0,0,0,0,0,1,0,0,5.0,5.406570841889117,25,4.0
+Peter Pan's Flight,MK,Fantasyland,"slow, small drops",0,0,1,1,0,0,0,0,1,1,0,2.75,51.06023271731691,18,4.0
+Pirates of the Caribbean,MK,Adventureland,"slow, small drops, dark",0,0,1,1,0,1,0,0,1,1,0,8.5,48.84804928131417,12,4.5
+Primeval Whirl,AK,Dinoland USA,"thrill, small drops, spinning",1,1,0,1,0,0,0,0,1,0,48,1.25,20.51403148528405,41,4.0
+Prince Charming Regal Carrousel,MK,Fantasyland,"slow, spinning",0,1,1,0,0,0,0,0,0,1,0,2.0,51.06023271731691,51,4.5
+Rock 'n' Roller Coaster,HS,Sunset Boulevard,"thrill, big drops",1,0,0,0,1,0,0,0,1,0,48,1.25,23.23545516769336,13,5.0
+Seven Dwarfs Mine Train,MK,Fantasyland,"thrill, small drops",1,0,0,1,0,0,0,0,1,0,38,2.5,8.404517453798768,10,4.5
+Slinky Dog Dash,HS,Toy Story Land,"thrill, small drops",1,0,0,1,0,0,0,0,1,0,38,2.0,4.314168377823409,14,4.5
+Soarin' Around the World,EC,Future World,"slow, small drops",0,0,1,1,0,0,0,0,1,0,40,5.0,17.46680355920602,4,4.5
+Space Mountain,MK,Tomorrowland,"thrill, big drops, dark",1,0,0,0,1,1,0,0,1,1,44,2.5,47.76933607118412,5,4.5
+Spaceship Earth,EC,Future World,"slow, dark",0,0,1,0,0,1,0,0,0,0,0,15.0,40.059548254620125,22,4.5
+Splash Mountain,MK,Frontierland,"thrill, water, big drops",1,0,0,0,1,0,0,1,1,0,40,11.0,30.266255989048595,7,4.5
+Star Tours,HS,Echo Lake,small drops,0,0,0,1,0,0,0,0,1,0,40,5.0,32.85352498288843,15,4.5
+Test Track,EC,Future World,"thrill, small drops",1,0,0,1,0,0,0,0,1,0,40,4.0,23.605065023956193,23,4.5
+The Barnstormer,MK,Fantasyland,small drops,0,0,0,1,0,0,0,0,1,0,35,1.0,26.058179329226558,36,3.5
+The Magic Carpets of Aladdin,MK,Adventureland,"slow, spinning",0,1,1,0,0,0,0,0,1,0,0,1.5,21.417522245037645,44,4.0
+The Many Adventures of Winnie the Pooh,MK,Fantasyland,slow,0,0,1,0,0,0,0,0,1,0,0,3.25,23.383299110198493,28,4.0
+The Twilight Zone Tower of Terror,HS,Sunset Boulevard,"thrill, big drops, dark, scary",1,0,0,0,1,1,1,0,1,0,40,5.0,28.253935660506503,3,5.0
+Tomorrowland Speedway,MK,Tomorrowland,slow,0,0,1,0,0,0,0,0,1,0,32,4.75,51.06023271731691,38,3.5
+Tomorrowland Transit Authority PeopleMover,MK,Tomorrowland,slow,0,0,1,0,0,0,0,0,0,0,0,10.0,47.31211498973306,30,4.0
+Toy Story Mania,HS,Toy Story Land,spinning,0,1,0,0,0,0,0,0,1,0,0,8.0,14.394934976043805,6,4.5
+TriceraTop Spin,AK,Dinoland USA,"slow, spinning",0,1,1,0,0,0,0,0,0,0,0,1.5,20.56331279945243,45,4.0
+Under the Sea,MK,Fantasyland,slow,0,0,1,0,0,0,0,0,1,0,0,6.25,9.87748117727584,34,4.5
+Walt Disney World Railroad,MK,Main Street USA,slow,0,0,1,0,0,0,0,0,0,0,0,20.0,51.06023271731691,48,4.0
+Walt Disney's Carousel of Progress,MK,Tomorrowland,slow,0,0,1,0,0,0,0,0,0,1,0,20.75,47.76933607118412,52,4.0
