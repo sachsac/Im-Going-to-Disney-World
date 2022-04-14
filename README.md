@@ -1,7 +1,7 @@
 # I'm Going to Disney World!
 Here is my second major project for my Coding Dojo Data Science program. 
 
-# [Live Presentation](https://youtu.be/We4ypWGU3ug?t=3817)
+# [Live Presentation](https://youtu.be/We4ypWGU3ug?t=3805)
 I presented this live during my final week of Coding Dojo Program. 
 
 # Background: 
