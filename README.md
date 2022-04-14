@@ -1,6 +1,9 @@
 # I'm Going to Disney World!
 Here is my second major project for my Coding Dojo Data Science program. 
 
+# [Live Presentation](https://youtu.be/We4ypWGU3ug?t=3817)
+I presented this live during my final week of Coding Dojo Program. 
+
 # Background: 
 I worked with a small dataset I retrieved from [data.world](https://data.world/lynne588/walt-disney-world-ride-data/workspace/file?filename=WDW_Ride_Data_DW.xlsx) to analyze what it is that makes a ride enjoyable, i.e., rated highly, by its guests. I hope that through this project, I can explore and spot trends that can be used for future attractions and extend to other theme parks. 
 
